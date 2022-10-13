@@ -1,0 +1,72 @@
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\LatihanDatabase.dll.config
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\LatihanDatabase.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\LatihanDatabase.pdb
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\csc.exe
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\csc.exe.config
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\csc.rsp
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\csi.exe
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\csi.rsp
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.AppContext.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.Collections.Immutable.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.IO.FileSystem.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\System.Reflection.Metadata.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\vbc.exe
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\vbc.exe.config
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\vbc.rsp
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\VBCSCompiler.exe
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\roslyn\VBCSCompiler.exe.config
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.AssemblyReference.cache
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.CoreCompileInputs.cache
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.CopyComplete
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\obj\Debug\LatihanDatabase.dll
+F:\Bunga Irmada\Semester3\PRG4\Week5\LatihanDatabase\obj\Debug\LatihanDatabase.pdb
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\LatihanDatabase.dll.config
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\LatihanDatabase.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\LatihanDatabase.pdb
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\csc.exe
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\csc.exe.config
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\csc.rsp
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\csi.exe
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\csi.rsp
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.AppContext.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.Collections.Immutable.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.IO.FileSystem.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\vbc.exe
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\vbc.exe.config
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\vbc.rsp
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\VBCSCompiler.exe
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\roslyn\VBCSCompiler.exe.config
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.AssemblyReference.cache
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.CoreCompileInputs.cache
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\obj\Debug\LatihanDatabase.csproj.CopyComplete
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\obj\Debug\LatihanDatabase.dll
+F:\Asira\Polman\TUGAS POLMAN TINGKAT 2\TUGAS POLMAN TINGKAT 2\PRG4\Latihan\M5\New folder\LatihanDatabase\obj\Debug\LatihanDatabase.pdb
